@@ -3,7 +3,7 @@
 Sendero
 =======
 
-Sendero is a lighting system developed for artistic production. It offers both software and hardware solutions.
+Sendero is a RGB LED lighting system for artistic production. It offers both software and hardware solutions and its provided by [Medialab](https://www.fing.edu.uy/grupos/medialab/), Facultad de Ingeniería de la Universidad de la República, Montevideo, Uruguay.
 
 Architecture
 ------------
